@@ -5,7 +5,7 @@
     "experience_years": 10,
     "num_recipes": 50,
     "rating": 4.5,
-    "img_url": "https://example.com/abdul-karim.jpg",
+    "img_url": "https://img.freepik.com/free-photo/front-view-male-chef-holding-dish_23-2148763124.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph",
     "bio": "Abdul Karim is a renowned Bangladeshi chef with 10 years of experience in the industry. He is known for his expertise in traditional Bangladeshi cuisine and has created over 50 unique recipes. Abdul's culinary skills have earned him a loyal following, and his dishes are loved by many."
   },
   {
@@ -14,17 +14,17 @@
     "experience_years": 12,
     "num_recipes": 60,
     "rating": 4.2,
-    "img_url": "https://example.com/sadia-dehlvi.jpg",
+    "img_url": "https://img.freepik.com/free-photo/melted-chocolate-confectioner-with-whisk_1157-47278.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph",
     "bio": "Sadia Dehlvi is a well-known chef from Bangladesh, with over 12 years of experience in the food industry. She has created over 60 unique recipes, blending traditional Bangladeshi flavors with modern techniques. Sadia is known for her attention to detail and presentation, which make her dishes a feast for both the eyes and taste buds."
   },
   {
     "id": 3,
-    "name": "Mowtushi Bhuiyan",
+    "name": "Akash Ahammed",
     "experience_years": 15,
     "num_recipes": 70,
     "rating": 4.8,
-    "img_url": "https://example.com/mowtushi-bhuiyan.jpg",
-    "bio": "Mowtushi Bhuiyan is a highly skilled Bangladeshi chef with 15 years of experience in the industry. She has created over 70 unique recipes that showcase her passion for using fresh, locally sourced ingredients. Mowtushi is known for her creative approach to cooking, which combines traditional techniques with modern flavors."
+    "img_url": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph",
+    "bio": "Akash Ahammed is a highly skilled Bangladeshi chef with 15 years of experience in the industry. She has created over 70 unique recipes that showcase her passion for using fresh, locally sourced ingredients. Akash is known for her creative approach to cooking, which combines traditional techniques with modern flavors."
   },
   {
     "id": 4,
@@ -32,7 +32,7 @@
     "experience_years": 8,
     "num_recipes": 40,
     "rating": 4.0,
-    "img_url": "https://example.com/najia-humayun.jpg",
+    "img_url": "https://img.freepik.com/free-photo/attractive-female-chef-preparing-vegetable-juice-blender_613910-733.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph",
     "bio": "Najia Humayun is a talented Bangladeshi chef with 8 years of experience in the food industry. She has created over 40 unique recipes that showcase her ability to blend traditional Bangladeshi flavors with international cuisines. Najia's dishes are known for their bold flavors and vibrant colors."
   },
   {
@@ -41,7 +41,7 @@
     "experience_years": 20,
     "num_recipes": 100,
     "rating": 4.9,
-    "img_url": "https://example.com/shawkat-osman.jpg",
+    "img_url": "https://img.freepik.com/free-photo/chef-serving-salad-standing-by-kitchen-counter_1303-32133.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph",
     "bio": "Shawkat Osman is a highly respected Bangladeshi chef with 20 years of experience in the food industry. He has created over 100 unique recipes that reflect his deep understanding of Bangladeshi cuisine. Shawkat's dishes are known for their exquisite taste and presentation, making her creative approach to cooking, which combines traditional techniques with modern flavors."
   },
   {
@@ -50,7 +50,7 @@
     "experience_years": 18,
     "num_recipes": 80,
     "rating": 4.4,
-    "img_url": "https://example.com/nazneen-haque-mimi.jpg",
+    "img_url": "https://img.freepik.com/free-photo/front-view-female-chef-apron-making-thumbs-up-sign_140725-104788.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph",
     "bio": "Nazneen Haque Mimi is a Bangladeshi chef with 18 years of experience in the industry. She is known for her ability to create unique, flavorful dishes that showcase her passion for cooking. With over 80 recipes under her belt, Nazneen's dishes are loved by many for their delicious taste and creative presentation."
   }
 ]
