@@ -13,21 +13,21 @@
         "ingredients": "1. Basmati rice, 2. Chicken, 3. Onion, 4. Garlic, 5. Ginger",
         "method": "1. Rinse rice and soak for 30 minutes. 2. Heat oil in a pot and fry onions, ginger, and garlic until fragrant. 3. Add chicken and cook until browned. 4. Add rice and water, bring to a boil, then reduce heat and simmer until rice is cooked. 5. Serve hot.",
         "rating": 4.7,
-        "img_url": "https://example.com/biryani.jpg"
+        "img_url": "https://img.freepik.com/free-photo/sausage-fried-rice-with-tomatoes-carrots-shiitake-mushrooms-plate_1150-27184.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph"
       },
       {
         "name": "Chapli Kebab",
         "ingredients": "1. Ground beef, 2. Tomato, 3. Onion, 4. Egg, 5. Coriander",
         "method": "1. Mix ground beef with onion, tomato, egg, coriander, and spices. 2. Shape into patties and cook in a pan until browned. 3. Serve hot with chutney.",
         "rating": 4.2,
-        "img_url": "https://example.com/chapli-kebab.jpg"
+        "img_url": "https://img.freepik.com/free-photo/turkish-arabic-traditional-ramadan-mix-kebab-plate-kebab-adana-chicken-lamb-beef-lavash-bread-with-sauce-top-view_2829-6170.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       },
       {
         "name": "Chicken Korma",
         "ingredients": "1. Chicken, 2. Yogurt, 3. Onion, 4. Garlic, 5. Ginger",
         "method": "1. Marinate chicken with spices and set aside. 2. Fry onions, garlic, and ginger until fragrant. 3. Add chicken and cook until browned. 4. Add yogurt and simmer until chicken is fully cooked. 5. Serve hot with naan or rice.",
         "rating": 4.4,
-        "img_url": "https://example.com/chicken-korma.jpg"
+        "img_url": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-6270.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       }
     ]
   },
@@ -45,21 +45,21 @@
         "ingredients": "1. Fish, 2. Onion, 3. Garlic, 4. Ginger, 5. Tomato",
         "method": "1. Marinate fish with spices and fry until browned. 2. Fry onions, garlic, ginger, and tomato until fragrant. 3. Add fried fish and cook until fully cooked. 4. Serve hot with rice.",
         "rating": 4.5,
-        "img_url": "https://example.com/fish-bhuna.jpg"
+        "img_url": "https://img.freepik.com/free-photo/fried-fish-carp-fresh-vegetable-salad-wooden-table_2829-19923.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       },
       {
         "name": "Bengali Prawn Curry",
         "ingredients": "1. Prawns, 2. Onion, 3. Tomato, 4. Coconut milk, 5. Turmeric",
         "method": "1. Fry prawns until pink and set aside. 2. Fry onions until golden brown, then add garlic, ginger, and tomato. 3. Add coconut milk and turmeric and bring to a boil. 4. Add prawns and simmer until fully cooked. 5. Serve hot with rice.",
         "rating": 4.0,
-        "img_url": "https://example.com/bengali-prawn-curry.jpg"
+        "img_url": "https://img.freepik.com/free-photo/thai-food-tom-yum-seafood-seafood-spicy-soup_1150-38145.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       },
       {
         "name": "Beef Bhuna",
         "ingredients": "1. Beef, 2. Onion, 3. Tomato, 4. Garlic, 5. Ginger",
         "method": "1. Fry onions until golden brown, then add garlic and ginger. 2. Add beef and cook until browned. 3. Add tomatoes and spices and simmer until beef is fully cooked. 4. Serve hot with naan or rice.",
         "rating": 4.8,
-        "img_url": "https://example.com/beef-bhuna.jpg"
+        "img_url": "https://img.freepik.com/free-photo/meat-tomato-sauce-potato-greens-cucubmer-side-view_141793-1806.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       }
     ]
   },
@@ -77,21 +77,21 @@
         "ingredients": "1. Shrimp, 2. Eggplant, 3. Onion, 4. Garlic, 5. Tomato",
         "method": "1. Fry shrimp until pink and set aside. 2. Fry onions until golden brown, then add garlic and tomato. 3. Add eggplant and cook until soft. 4. Add shrimp and simmer until fully cooked. 5. Serve hot with rice.",
         "rating": 4.6,
-        "img_url": "https://example.com/shrimp-eggplant-curry.jpg"
+        "img_url": "https://img.freepik.com/free-photo/thai-food-tom-yum-seafood-seafood-spicy-soup_1150-38145.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       },
       {
         "name": "Lamb Vindaloo",
         "ingredients": "1. Lamb, 2. Potatoes, 3. Onion, 4. Garlic, 5. Ginger",
         "method": "1. Marinate lamb with spices and set aside. 2. Fry onions, garlic, and ginger until fragrant. 3. Add lamb and cook until browned. 4. Add potatoes and water and simmer until lamb and potatoes are fully cooked. 5. Serve hot with naan or rice.",
         "rating": 4.9,
-        "img_url": "https://example.com/lamb-vindaloo.jpg"
+        "img_url": "https://img.freepik.com/free-photo/delicious-meat-shish-kebabs-served-table_23-2147852337.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       },
       {
         "name": "Fish Kalia",
         "ingredients": "1. Fish, 2. Yogurt, 3. Onion, 4. Garlic, 5. Ginger",
         "method": "1. Fry fish until golden brown and set aside. 2. Fry onions, garlic, and ginger until fragrant. 3. Add yogurt and spices and cook until a thick gravy forms. 4. Add fish and simmer until fully cooked. 5. Serve hot with rice.",
         "rating": 4.9,
-        "img_url": "https://example.com/fish-kalia.jpg"
+        "img_url": "https://img.freepik.com/free-photo/sour-curry-with-snakehead-fish-spicy-garden-hot-pot-thai-food_1150-26404.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       }
     ]
   },
@@ -109,21 +109,21 @@
         "ingredients": "1. Bell peppers, 2. Carrots, 3. Onion, 4. Cauliflower, 5. Tomatoes",
         "method": "1. Fry onions until golden brown, then add bell peppers, carrots, and cauliflower. 2. Add tomatoes and spices and cook until vegetables are fully cooked.Serve hot with naan or rice.",
         "rating": 4.1,
-        "img_url": "https://example.com/vegetable-jalfrezi.jpg"
+        "img_url": "https://img.freepik.com/free-photo/fried-vegetables-with-sauce-pan_1220-5283.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       },
       {
         "name": "Chicken Korma",
         "ingredients": "1. Chicken, 2. Yogurt, 3. Onion, 4. Garlic, 5. Ginger",
         "method": "1. Marinate chicken with spices and set aside. 2. Fry onions, garlic, and ginger until fragrant. 3. Add chicken and cook until browned. 4. Add yogurt and simmer until chicken is fully cooked. 5. Serve hot with naan or rice.",
         "rating": 4.4,
-        "img_url": "https://example.com/chicken-korma.jpg"
+        "img_url": "https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine_2829-4415.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       },
       {
         "name": "Chapli Kebab",
         "ingredients": "1. Ground beef, 2. Tomato, 3. Onion, 4. Egg, 5. Coriander",
         "method": "1. Mix ground beef with onion, tomato, egg, coriander, and spices. 2. Shape into patties and cook in a pan until browned. 3. Serve hot with chutney.",
         "rating": 4.2,
-        "img_url": "https://example.com/chapli-kebab.jpg"
+        "img_url": "https://img.freepik.com/free-photo/top-view-delicious-kebab-slate-with-salad-ketchup_23-2148685527.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       }
     ]
   },
@@ -141,21 +141,21 @@
         "ingredients": "1. Beef, 2. Onion, 3. Garlic, 4. Ginger, 5. Tomatoes",
         "method": "1. Fry onions until golden brown, then add garlic and ginger. 2. Add beef and cook until browned. 3. Add tomatoes and spices and simmer until beef is fully cooked. 4. Serve hot with naan or rice.",
         "rating": 4.8,
-        "img_url": "https://example.com/beef-bhuna.jpg"
+        "img_url": "https://img.freepik.com/free-photo/stewed-duck-with-potatoes-casserole_1205-10780.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       },
       {
         "name": "Fish Kalia",
         "ingredients": "1. Fish, 2. Yogurt, 3. Onion, 4. Ginger, 5. Garlic",
         "method": "1. Fry fish until golden brown and set aside. 2. Fry onions, garlic, and ginger until fragrant. 3. Add yogurt and spices and cook until a thick gravy forms. 4. Add fish and simmer until fully cooked. 5. Serve hot with rice.",
         "rating": 4.9,
-        "img_url": "https://example.com/fish-kalia.jpg"
+        "img_url": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal-tray_23-2148734692.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       },
       {
         "name": "Fish Bhuna",
         "ingredients": "1. Fish, 2. Garlic, 3. Onion, 4. Ginger, 5. Tomato",
         "method": "1. Marinate fish with spices and fry until browned. 2. Fry onions, garlic, ginger, and tomato until fragrant. 3. Add fried fish and cook until fully cooked. 4. Serve hot with rice.",
         "rating": 4.5,
-        "img_url": "https://example.com/fish-bhuna.jpg"
+        "img_url": "https://img.freepik.com/free-photo/plate-fried-fish-brisket_1205-11122.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       }
     ]
   },
@@ -173,21 +173,21 @@
         "ingredients": "1. Lamb, 2. Garlic, 3. Onion, 4. Ginger, 5. Tomatoes",
         "method": "1. Fry onions until golden brown, then add garlic and ginger. 2. Add lamb and cookuntil browned. 3. Add tomatoes and spices and simmer until lamb is fully cooked. 4. Serve hot with naan or rice.",
         "rating": 4.5,
-        "img_url": "https://example.com/lamb-curry.jpg"
+        "img_url": "https://img.freepik.com/free-photo/bowl-homemade-stew-close-up_23-2148494753.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       },
       {
         "name": "Chicken Biryani",
         "ingredients": "1. Basmati rice, 2. Chicken, 3. Onion, 4. Ginger, 5. Garlic",
         "method": "1. Rinse rice and soak for 30 minutes. 2. Heat oil in a pot and fry onions, ginger, and garlic until fragrant. 3. Add chicken and cook until browned. 4. Add rice and water, bring to a boil, then reduce heat and simmer until rice is cooked. 5. Serve hot.",
         "rating": 4.7,
-        "img_url": "https://example.com/biryani.jpg"
+        "img_url": "https://img.freepik.com/free-photo/top-close-up-view-pilaf-pilaf-with-meat-dried-fruit-raisins-bowl_140725-78466.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       },
       {
         "name": "Chickpea Masala",
         "ingredients": "1. Chickpeas, 2. Garlic, 3. Onion, 4. Ginger, 5. Tomatoes",
         "method": "1. Fry onions until golden brown, then add garlic and ginger. 2. Add chickpeas and cook until slightly browned. 3. Add tomatoes and spices and simmer until chickpeas are fully cooked. 4. Serve hot with naan or rice.",
         "rating": 4.7,
-        "img_url": "https://example.com/chickpea-masala.jpg"
+        "img_url": "https://img.freepik.com/free-photo/top-view-roasted-eggplant-salad-bowl-grey-surface_140725-88534.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=ais"
       }
     ]
   }
