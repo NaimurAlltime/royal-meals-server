@@ -15,11 +15,11 @@ app.get('/', (req, res) => {
     res.send(chefs);
   })
 
-  app.get('/chefs/:id', (req, res) => {
+  app.get('/chef/:id', (req, res) => {
     const id = parseInt(req.params.id);
     // console.log(id);
-    const selectedChefs = chefs.find(n => parseInt(n.id) === id);
-    res.send(selectedChefs);
+    const selectedChef = chefs.find(n => parseInt(n.id) === id);
+    res.send(selectedChef);
   })
 
   app.listen(port, () => {

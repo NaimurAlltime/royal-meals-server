@@ -4,53 +4,191 @@
     "name": "Abdul Karim",
     "experience_years": 10,
     "num_recipes": 50,
-    "rating": 4.5,
+    "likes": 1500,
     "img_url": "https://img.freepik.com/free-photo/front-view-male-chef-holding-dish_23-2148763124.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph",
-    "bio": "Abdul Karim is a renowned Bangladeshi chef with 10 years of experience in the industry. He is known for his expertise in traditional Bangladeshi cuisine and has created over 50 unique recipes. Abdul's culinary skills have earned him a loyal following, and his dishes are loved by many."
+    "bio": "Abdul Karim is a renowned Bangladeshi chef with 10 years of experience in the industry. He is known for his expertise in traditional Bangladeshi cuisine and has created over 50 unique recipes. Abdul's culinary skills have earned him a loyal following, and his dishes are loved by many.",
+    "recipes": [
+      {
+        "name": "Biryani",
+        "ingredients": "1. Basmati rice, 2. Chicken, 3. Onion, 4. Garlic, 5. Ginger",
+        "method": "1. Rinse rice and soak for 30 minutes. 2. Heat oil in a pot and fry onions, ginger, and garlic until fragrant. 3. Add chicken and cook until browned. 4. Add rice and water, bring to a boil, then reduce heat and simmer until rice is cooked. 5. Serve hot.",
+        "rating": 4.7,
+        "img_url": "https://example.com/biryani.jpg"
+      },
+      {
+        "name": "Chapli Kebab",
+        "ingredients": "1. Ground beef, 2. Tomato, 3. Onion, 4. Egg, 5. Coriander",
+        "method": "1. Mix ground beef with onion, tomato, egg, coriander, and spices. 2. Shape into patties and cook in a pan until browned. 3. Serve hot with chutney.",
+        "rating": 4.2,
+        "img_url": "https://example.com/chapli-kebab.jpg"
+      },
+      {
+        "name": "Chicken Korma",
+        "ingredients": "1. Chicken, 2. Yogurt, 3. Onion, 4. Garlic, 5. Ginger",
+        "method": "1. Marinate chicken with spices and set aside. 2. Fry onions, garlic, and ginger until fragrant. 3. Add chicken and cook until browned. 4. Add yogurt and simmer until chicken is fully cooked. 5. Serve hot with naan or rice.",
+        "rating": 4.4,
+        "img_url": "https://example.com/chicken-korma.jpg"
+      }
+    ]
   },
   {
     "id": 2,
     "name": "Sadia Dehlvi",
     "experience_years": 12,
     "num_recipes": 60,
-    "rating": 4.2,
+    "likes": 1500,
     "img_url": "https://img.freepik.com/free-photo/melted-chocolate-confectioner-with-whisk_1157-47278.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph",
-    "bio": "Sadia Dehlvi is a well-known chef from Bangladesh, with over 12 years of experience in the food industry. She has created over 60 unique recipes, blending traditional Bangladeshi flavors with modern techniques. Sadia is known for her attention to detail and presentation, which make her dishes a feast for both the eyes and taste buds."
+    "bio": "Sadia Dehlvi is a well-known chef from Bangladesh, with over 12 years of experience in the food industry. She has created over 60 unique recipes, blending traditional Bangladeshi flavors with modern techniques. Sadia is known for her attention to detail and presentation, which make her dishes a feast for both the eyes and taste buds.",
+    "recipes": [
+      {
+        "name": "Fish Bhuna",
+        "ingredients": "1. Fish, 2. Onion, 3. Garlic, 4. Ginger, 5. Tomato",
+        "method": "1. Marinate fish with spices and fry until browned. 2. Fry onions, garlic, ginger, and tomato until fragrant. 3. Add fried fish and cook until fully cooked. 4. Serve hot with rice.",
+        "rating": 4.5,
+        "img_url": "https://example.com/fish-bhuna.jpg"
+      },
+      {
+        "name": "Bengali Prawn Curry",
+        "ingredients": "1. Prawns, 2. Onion, 3. Tomato, 4. Coconut milk, 5. Turmeric",
+        "method": "1. Fry prawns until pink and set aside. 2. Fry onions until golden brown, then add garlic, ginger, and tomato. 3. Add coconut milk and turmeric and bring to a boil. 4. Add prawns and simmer until fully cooked. 5. Serve hot with rice.",
+        "rating": 4.0,
+        "img_url": "https://example.com/bengali-prawn-curry.jpg"
+      },
+      {
+        "name": "Beef Bhuna",
+        "ingredients": "1. Beef, 2. Onion, 3. Tomato, 4. Garlic, 5. Ginger",
+        "method": "1. Fry onions until golden brown, then add garlic and ginger. 2. Add beef and cook until browned. 3. Add tomatoes and spices and simmer until beef is fully cooked. 4. Serve hot with naan or rice.",
+        "rating": 4.8,
+        "img_url": "https://example.com/beef-bhuna.jpg"
+      }
+    ]
   },
   {
     "id": 3,
     "name": "Akash Ahammed",
     "experience_years": 15,
     "num_recipes": 70,
-    "rating": 4.8,
+    "likes": 1600,
     "img_url": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph",
-    "bio": "Akash Ahammed is a highly skilled Bangladeshi chef with 15 years of experience in the industry. She has created over 70 unique recipes that showcase her passion for using fresh, locally sourced ingredients. Akash is known for her creative approach to cooking, which combines traditional techniques with modern flavors."
+    "bio": "Akash Ahammed is a highly skilled Bangladeshi chef with 15 years of experience in the industry. She has created over 70 unique recipes that showcase her passion for using fresh, locally sourced ingredients. Akash is known for her creative approach to cooking, which combines traditional techniques with modern flavors.",
+    "recipes": [
+      {
+        "name": "Shrimp and Eggplant Curry",
+        "ingredients": "1. Shrimp, 2. Eggplant, 3. Onion, 4. Garlic, 5. Tomato",
+        "method": "1. Fry shrimp until pink and set aside. 2. Fry onions until golden brown, then add garlic and tomato. 3. Add eggplant and cook until soft. 4. Add shrimp and simmer until fully cooked. 5. Serve hot with rice.",
+        "rating": 4.6,
+        "img_url": "https://example.com/shrimp-eggplant-curry.jpg"
+      },
+      {
+        "name": "Lamb Vindaloo",
+        "ingredients": "1. Lamb, 2. Potatoes, 3. Onion, 4. Garlic, 5. Ginger",
+        "method": "1. Marinate lamb with spices and set aside. 2. Fry onions, garlic, and ginger until fragrant. 3. Add lamb and cook until browned. 4. Add potatoes and water and simmer until lamb and potatoes are fully cooked. 5. Serve hot with naan or rice.",
+        "rating": 4.9,
+        "img_url": "https://example.com/lamb-vindaloo.jpg"
+      },
+      {
+        "name": "Fish Kalia",
+        "ingredients": "1. Fish, 2. Yogurt, 3. Onion, 4. Garlic, 5. Ginger",
+        "method": "1. Fry fish until golden brown and set aside. 2. Fry onions, garlic, and ginger until fragrant. 3. Add yogurt and spices and cook until a thick gravy forms. 4. Add fish and simmer until fully cooked. 5. Serve hot with rice.",
+        "rating": 4.9,
+        "img_url": "https://example.com/fish-kalia.jpg"
+      }
+    ]
   },
   {
     "id": 4,
     "name": "Najia Humayun",
     "experience_years": 8,
     "num_recipes": 40,
-    "rating": 4.0,
+    "likes": 1150,
     "img_url": "https://img.freepik.com/free-photo/attractive-female-chef-preparing-vegetable-juice-blender_613910-733.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph",
-    "bio": "Najia Humayun is a talented Bangladeshi chef with 8 years of experience in the food industry. She has created over 40 unique recipes that showcase her ability to blend traditional Bangladeshi flavors with international cuisines. Najia's dishes are known for their bold flavors and vibrant colors."
+    "bio": "Najia Humayun is a talented Bangladeshi chef with 8 years of experience in the food industry. She has created over 40 unique recipes that showcase her ability to blend traditional Bangladeshi flavors with international cuisines. Najia's dishes are known for their bold flavors and vibrant colors.",
+    "recipes": [
+      {
+        "name": "Vegetable Jalfrezi",
+        "ingredients": "1. Bell peppers, 2. Carrots, 3. Onion, 4. Cauliflower, 5. Tomatoes",
+        "method": "1. Fry onions until golden brown, then add bell peppers, carrots, and cauliflower. 2. Add tomatoes and spices and cook until vegetables are fully cooked.Serve hot with naan or rice.",
+        "rating": 4.1,
+        "img_url": "https://example.com/vegetable-jalfrezi.jpg"
+      },
+      {
+        "name": "Chicken Korma",
+        "ingredients": "1. Chicken, 2. Yogurt, 3. Onion, 4. Garlic, 5. Ginger",
+        "method": "1. Marinate chicken with spices and set aside. 2. Fry onions, garlic, and ginger until fragrant. 3. Add chicken and cook until browned. 4. Add yogurt and simmer until chicken is fully cooked. 5. Serve hot with naan or rice.",
+        "rating": 4.4,
+        "img_url": "https://example.com/chicken-korma.jpg"
+      },
+      {
+        "name": "Chapli Kebab",
+        "ingredients": "1. Ground beef, 2. Tomato, 3. Onion, 4. Egg, 5. Coriander",
+        "method": "1. Mix ground beef with onion, tomato, egg, coriander, and spices. 2. Shape into patties and cook in a pan until browned. 3. Serve hot with chutney.",
+        "rating": 4.2,
+        "img_url": "https://example.com/chapli-kebab.jpg"
+      }
+    ]
   },
   {
     "id": 5,
     "name": "Shawkat Osman",
     "experience_years": 20,
     "num_recipes": 100,
-    "rating": 4.9,
+    "likes": 1000,
     "img_url": "https://img.freepik.com/free-photo/chef-serving-salad-standing-by-kitchen-counter_1303-32133.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph",
-    "bio": "Shawkat Osman is a highly respected Bangladeshi chef with 20 years of experience in the food industry. He has created over 100 unique recipes that reflect his deep understanding of Bangladeshi cuisine. Shawkat's dishes are known for their exquisite taste and presentation, making her creative approach to cooking, which combines traditional techniques with modern flavors."
+    "bio": "Shawkat Osman is a highly respected Bangladeshi chef with 20 years of experience in the food industry. He has created over 100 unique recipes that reflect his deep understanding of Bangladeshi cuisine. Shawkat's dishes are known for their exquisite taste and presentation, making her creative approach to cooking, which combines traditional techniques with modern flavors.",
+    "recipes": [
+      {
+        "name": "Beef Bhuna",
+        "ingredients": "1. Beef, 2. Onion, 3. Garlic, 4. Ginger, 5. Tomatoes",
+        "method": "1. Fry onions until golden brown, then add garlic and ginger. 2. Add beef and cook until browned. 3. Add tomatoes and spices and simmer until beef is fully cooked. 4. Serve hot with naan or rice.",
+        "rating": 4.8,
+        "img_url": "https://example.com/beef-bhuna.jpg"
+      },
+      {
+        "name": "Fish Kalia",
+        "ingredients": "1. Fish, 2. Yogurt, 3. Onion, 4. Ginger, 5. Garlic",
+        "method": "1. Fry fish until golden brown and set aside. 2. Fry onions, garlic, and ginger until fragrant. 3. Add yogurt and spices and cook until a thick gravy forms. 4. Add fish and simmer until fully cooked. 5. Serve hot with rice.",
+        "rating": 4.9,
+        "img_url": "https://example.com/fish-kalia.jpg"
+      },
+      {
+        "name": "Fish Bhuna",
+        "ingredients": "1. Fish, 2. Garlic, 3. Onion, 4. Ginger, 5. Tomato",
+        "method": "1. Marinate fish with spices and fry until browned. 2. Fry onions, garlic, ginger, and tomato until fragrant. 3. Add fried fish and cook until fully cooked. 4. Serve hot with rice.",
+        "rating": 4.5,
+        "img_url": "https://example.com/fish-bhuna.jpg"
+      }
+    ]
   },
   {
     "id": 6,
     "name": "Nazneen Haque Mimi",
     "experience_years": 18,
     "num_recipes": 80,
-    "rating": 4.4,
+    "likes": 1200,
     "img_url": "https://img.freepik.com/free-photo/front-view-female-chef-apron-making-thumbs-up-sign_140725-104788.jpg?size=626&ext=jpg&ga=GA1.2.209329912.1680195530&semt=sph",
-    "bio": "Nazneen Haque Mimi is a Bangladeshi chef with 18 years of experience in the industry. She is known for her ability to create unique, flavorful dishes that showcase her passion for cooking. With over 80 recipes under her belt, Nazneen's dishes are loved by many for their delicious taste and creative presentation."
+    "bio": "Nazneen Haque Mimi is a Bangladeshi chef with 18 years of experience in the industry. She is known for her ability to create unique, flavorful dishes that showcase her passion for cooking. With over 80 recipes under her belt, Nazneen's dishes are loved by many for their delicious taste and creative presentation.",
+    "recipes": [
+      {
+        "name": "Lamb Curry",
+        "ingredients": "1. Lamb, 2. Garlic, 3. Onion, 4. Ginger, 5. Tomatoes",
+        "method": "1. Fry onions until golden brown, then add garlic and ginger. 2. Add lamb and cookuntil browned. 3. Add tomatoes and spices and simmer until lamb is fully cooked. 4. Serve hot with naan or rice.",
+        "rating": 4.5,
+        "img_url": "https://example.com/lamb-curry.jpg"
+      },
+      {
+        "name": "Chicken Biryani",
+        "ingredients": "1. Basmati rice, 2. Chicken, 3. Onion, 4. Ginger, 5. Garlic",
+        "method": "1. Rinse rice and soak for 30 minutes. 2. Heat oil in a pot and fry onions, ginger, and garlic until fragrant. 3. Add chicken and cook until browned. 4. Add rice and water, bring to a boil, then reduce heat and simmer until rice is cooked. 5. Serve hot.",
+        "rating": 4.7,
+        "img_url": "https://example.com/biryani.jpg"
+      },
+      {
+        "name": "Chickpea Masala",
+        "ingredients": "1. Chickpeas, 2. Garlic, 3. Onion, 4. Ginger, 5. Tomatoes",
+        "method": "1. Fry onions until golden brown, then add garlic and ginger. 2. Add chickpeas and cook until slightly browned. 3. Add tomatoes and spices and simmer until chickpeas are fully cooked. 4. Serve hot with naan or rice.",
+        "rating": 4.7,
+        "img_url": "https://example.com/chickpea-masala.jpg"
+      }
+    ]
   }
 ]
